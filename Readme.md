@@ -1,7 +1,5 @@
 Copyright Szabo Cristina-Andreea 2022-2023
 
-# Octave Simulator
-
 # **Octave Simulator**
 
 This project is a simulation of matrix operations commonly found in **Octave** implemented in C. It supports various matrix operations such as addition, multiplication, transposition, and more, all through user input. The operations are handled with dynamic memory allocation, ensuring flexibility and memory efficiency.
